@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{site.theme}}";
+
+main{
+
+}
+
+body{
+  /*Image is property of https://hdqwalls.com/download/1366x768/minimalist-mountains-black-and-white*/
+  background-image: url("https://images.hdqwalls.com/download/minimalist-mountains-black-and-white-ap-1366x768.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+footer{
+  color: white !important;
+}
+
+.site-footer{
+  border-top: 0 !important;
+}
+
+.site-title{
+  margin-right: 20px;
+}
