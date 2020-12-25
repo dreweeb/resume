@@ -9,7 +9,6 @@ body{
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;*/
-  color: white !important;
 }
 /*
 
@@ -104,12 +103,12 @@ html {
   animation-fill-mode: forwards !important;
 }
 #stars1-1{
+  animation: animStar 400s linear infinite !important;
   transform: translateX(2000px) !important;
-  animation: animStar 200s linear infinite !important;
 }
 #stars1-2{
+  animation: animStar 400s linear infinite  200s !important;
   transform: translateX(2000px) !important;
-  animation: animStar 200s linear infinite  200s !important;
 }
 .stars2 {
   position: absolute;
@@ -123,12 +122,12 @@ html {
   animation-fill-mode: forwards !important;
 }
 #stars2-1{
+  animation: animStar 350s linear infinite !important;
   transform: translateX(2000px) !important;
-  animation: animStar 175s linear infinite !important;
 }
 #stars2-2{
+  animation: animStar 350s linear infinite  175s !important;
   transform: translateX(2000px) !important;
-  animation: animStar 175s linear infinite  175s !important;
 }
 
 .stars3 {
@@ -143,12 +142,12 @@ html {
   animation-fill-mode: forwards !important;
 }
 #stars3-1{
+  animation: animStar 300s linear infinite !important;
   transform: translateX(2000px) !important;
-  animation: animStar 150s linear infinite !important;
 }
 #stars3-2{
+  animation: animStar 300s linear infinite  150s !important;
   transform: translateX(2000px) !important;
-  animation: animStar 150s linear infinite  150s !important;
 }
 
 #title {
