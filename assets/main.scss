@@ -84,7 +84,7 @@ body{
 }
 
 body{
-  background: radial-gradient(ellipse at bottom, #30455e 0%, #090a0f 100%) !important;
+  background: radial-gradient(ellipse at bottom, #304325 0%, #090a0f 100%) !important;
   height: 100%;
   overflow-x: hidden;
 }
@@ -156,10 +156,9 @@ body{
 
 #title {
   position: relative;
-  top: 50%;
-  left: 0;
-  right: 0;
   color: #FFF;
+  margin-top: 32%;
+  margin-bottom: 32%;
   text-align: center;
   font-family: "lato", sans-serif;
   font-weight: 300;
