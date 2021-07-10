@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Home | Andres Salas
-email: dreweeb@outlook.com
+email: andres.cubero.salas@gmail.com
 author: dreweeb
 description: >- # this means to ignore newlines until "baseurl:"
   Descripcion de la pagina. Ubicacion: _config.yml
